@@ -1,11 +1,11 @@
 ## Habbo Air Plus Fut
 <br>
 
-Esse projeto tem como objetivo dar continuidade no projeto do habbo plus com funcionalidades unicas de futgogos.<br>
+Esse projeto tem como objetivo dar continuidade no projeto do habboAirplus com funcionalidades unicas de futgogos.<br>
 Agradecimentos a <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> onde elaborou a maior parte das funcionalidades.<br>
 
 <i>
-This project aims to continue the habbo plus project with unique features of habbo soccer game.<br>
+This project aims to continue the HabboAirPlus project with unique features of habbo soccer game.<br>
 Thanks to <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> where he developed most of the features.<br></i>
 <br>
 My nick game: estoulimpo or riskko <br>
