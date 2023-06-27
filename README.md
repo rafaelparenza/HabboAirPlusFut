@@ -1,5 +1,24 @@
 ## Habbo Air Plus Fut
 <br>
+<b>Atualização :</b><br>
+O projeto ja iniciado da lilith continha alguns temporizadores que estavam afetando o desempenho do xmouse, era visto quando utilizavamos a op 6 com menos de 20ms. 
+<br>
+Quem joga consegue ver a diferença, nessa nova versão eu removi esses temporizadores e os seguintes comandos não estão mais presentes na versão fut:
+<br>
+<ul>
+<li>RoomLight</li>
+<li>RoomBackgroundColor</li>
+<li>RoomEngine</li>
+<li>FurniMark</li>
+<li>AutoClick</li>
+<li>DevWar</li>
+<li>AntiAfkModeT</li>
+<li>UserCustomFx</li>
+</ul>
+<br>
+Agora o launcher está atendendo muito mais rapido😎
+<br><br>
+
 
 Esse projeto tem como objetivo dar continuidade no projeto do habboAirplus com funcionalidades unicas de futgogos.<br>
 Agradecimentos a <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> onde elaborou a maior parte das funcionalidades.<br>
