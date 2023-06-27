@@ -1,4 +1,5 @@
 ## Habbo Air Plus Fut
+<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut.zip">Download</a>
 <br>
 <b>Atualização :</b><br>
 O projeto ja iniciado da lilith continha alguns temporizadores que estavam afetando o desempenho do xmouse, era visto quando utilizavamos a op 6 com menos de 20ms. 
