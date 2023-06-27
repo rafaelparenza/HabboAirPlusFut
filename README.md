@@ -16,7 +16,7 @@ Quem joga consegue ver a diferença, nessa nova versão eu removi esses temporiz
 <li>UserCustomFx</li>
 </ul>
 <br>
-Agora o launcher está atendendo muito mais rapido😎
+Agora o launcher está atendendo muito mais rapido😎. Utilizem: :resetvars, para limpeza...
 <br><br>
 
 
