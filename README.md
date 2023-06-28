@@ -1,6 +1,6 @@
 ## Habbo Air Plus Fut
 <a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut.zip">Download clique aqui</a>
-###### <b>Ultimas Atualizações : Comandos SC e melhora de desempenho</b>
+###### <b>Ultimas Atualizações : Comando :SC e melhora de desempenho</b>
 
 
 ##### Esse projeto é uma continuação do projeto  da lilith, continha alguns temporizadores que estavam afetando o desempenho do xmouse, era visto quando utilizavamos a op 6 com menos de 20ms.
