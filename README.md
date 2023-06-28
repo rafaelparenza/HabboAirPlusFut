@@ -52,10 +52,8 @@ Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temp
 <i>
 This project aims to continue the HabboAirPlus project with unique features of habbo soccer game.
 Thanks to <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> where he developed most of the features.</i>
-
 <p class="has-line-data" data-line-start="7" data-line-end="9">Client version: MAC63-202305191855-260008915
 JPEXS version: 15.0.0</p>
-<p class="has-line-data" data-line-start="10" data-line-end="45">Enabled commands:</p>
 
 ##### Agradecimentos a <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> onde elaborou a maior parte das funcionalidades.
 ##### My nick game: estoulimpo or riskko
