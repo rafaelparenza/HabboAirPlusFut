@@ -7,13 +7,12 @@
 ##### Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temporizadores.
 ##### Agora o launcher está atendendo muito mais rapido😎. Recomendo utilizarem: :resetvars, para limpeza...
 ##### Esse projeto tem como objetivo dar continuidade no projeto do habboAirplus com funcionalidades unicas de futgogos.
-##### Agradecimentos a <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> onde elaborou a maior parte das funcionalidades.
-##### My nick game: estoulimpo or riskko
+
 
 ## COMANDOS PRESENTES NO Habbo Air Plus Fut
 
-###### :fut ativa ou desativa o modo futebol, onde ativa funcionalidades que facilitam jogar futgogos, *(atalho para playing e infostand)*
-###### :sc Desativa eventos duplo clique, impedindo cometer falta no jogo.
+##### :fut ativa ou desativa o modo futebol, onde ativa funcionalidades que facilitam jogar futgogos, *(atalho para playing e infostand)*
+##### :sc Desativa eventos duplo clique, impedindo cometer falta no jogo.
 
 ###### :fps Number (Alterar fps do jogo 60 a 240, tente fps:120)<b
 ###### :unlockfps (unlock/lock animations fps with forced mode)
@@ -58,3 +57,6 @@ Thanks to <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbo
 <p class="has-line-data" data-line-start="7" data-line-end="9">Client version: MAC63-202305191855-260008915
 JPEXS version: 15.0.0</p>
 <p class="has-line-data" data-line-start="10" data-line-end="45">Enabled commands:</p>
+
+##### Agradecimentos a <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> onde elaborou a maior parte das funcionalidades.
+##### My nick game: estoulimpo or riskko
