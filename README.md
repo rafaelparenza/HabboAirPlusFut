@@ -10,7 +10,7 @@ Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temp
 
 ## Comandos presentes no HabboAirPlusFut
 
-##### :fut ativa ou desativa o modo futebol, onde ativa funcionalidades que facilitam jogar futgogos, *(atalho para playing e infostand)*
+##### :fut ativa ou desativa o modo futebol, onde ativa funcionalidades que facilitam jogar futgogos, *(atalho para ativar playing, infostand e sc)*
 ##### :sc Desativa eventos duplo clique, impedindo cometer falta no jogo.
 
 ###### :fps Number (Alterar fps do jogo 60 a 240, tente fps:120)<b
@@ -49,6 +49,17 @@ Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temp
 - ~~UserCustomFx~~
 - ~~bgcolor~~
 
+
+## Conf XM para usar com :sc 
+##### {LMB}{LMB}{LMB}{LMB}{REFRESH10000}{Click_10000}{macro}{LMB}{nitrox2} OPÇÃO 6 MILI 12
+##### {LMB}{MACRO}{MWDN}{TILTR}{DETTS}{LMB}{MACRO}{MWDN}{TILTR}{DETTS} OPÇÃO 6 MILI 12
+##### {LMB} OPÇÃO 6 MILI 12
+##### {LMB}{MMB}{Click_10000}{WAITMS<30>}{LMB}{MMB}{Click_10000}{WAITMS<30>}{LMB}{MMB} op 9
+
+
+
+
+
 <i>
 This project aims to continue the HabboAirPlus project with unique features of habbo soccer game.
 Thanks to <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> where he developed most of the features.</i>
@@ -57,3 +68,5 @@ JPEXS version: 15.0.0</p>
 
 ##### Agradecimentos a <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> onde elaborou a maior parte das funcionalidades.
 ##### My nick game: estoulimpo or riskko
+
+
