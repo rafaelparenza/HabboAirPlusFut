@@ -8,7 +8,7 @@ Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temp
 ##### Agora o launcher está atendendo muito mais rapido😎.
 
 
-## COMANDOS PRESENTES NO Habbo Air Plus Fut
+## Comandos presentes no HabboAirPlusFut
 
 ##### :fut ativa ou desativa o modo futebol, onde ativa funcionalidades que facilitam jogar futgogos, *(atalho para playing e infostand)*
 ##### :sc Desativa eventos duplo clique, impedindo cometer falta no jogo.
