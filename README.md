@@ -29,7 +29,7 @@ Thanks to <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbo
 <p class="has-line-data" data-line-start="7" data-line-end="9">Client version: MAC63-202305191855-260008915<br>
 JPEXS version: 15.0.0</p>
 <p class="has-line-data" data-line-start="10" data-line-end="45">Enabled commands:<br></p>
-   \~~Insira o texto aqui\~~ 
+
 :bgcolor [HueNumber] [SaturationNumber] [LightnessNumber] (change room background color with forced mode)<br>
 :fps Number (change current fps value with forced mode)<br>
 :unlockfps (unlock/lock animations fps with forced mode)<br>
