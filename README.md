@@ -3,10 +3,9 @@
 ###### <b>Ultimas Atualizações : Comando :SC e melhora de desempenho</b>
 
 
-##### Esse projeto é uma continuação do projeto  da lilith, continha alguns temporizadores que estavam afetando o desempenho do xmouse, era visto quando utilizavamos a op 6 com menos de 20ms.
-##### Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temporizadores.
-##### Agora o launcher está atendendo muito mais rapido😎. Recomendo utilizarem: :resetvars, para limpeza...
-##### Esse projeto tem como objetivo dar continuidade no projeto do habboAirplus com funcionalidades unicas de futgogos.
+##### Esse projeto tem como objetivo dar continuidade no projeto do habboAirplus com funcionalidades unicas de futgogos, o projeto da lilith não era focado para fut e continha alguns temporizadores que estavam afetando o desempenho do xmouse, isso era visto quando utilizavamos a op 6 com menos de 20ms.
+Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temporizadores.
+##### Agora o launcher está atendendo muito mais rapido😎.
 
 
 ## COMANDOS PRESENTES NO Habbo Air Plus Fut
