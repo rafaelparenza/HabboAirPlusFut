@@ -10,8 +10,8 @@ Those who play futgogos can see the difference, in this new version I removed 7 
 
 ## Comandos presentes no HabboAirPlusFut
 
-##### :fut ativa ou desativa o modo futebol, onde ativa funcionalidades que facilitam jogar futgogos, *(atalho para ativar playing, infostand e sc)*
-##### :sc Desativa eventos duplo clique, impedindo cometer falta no jogo.
+##### :fut unlock/lock soccer mode *(atalho para ativar playing, infostand e sc)*
+##### :sc unlock/lock double click
 
 ###### :fps Number (Alterar fps do jogo 60 a 240, tente fps:120)<b
 ###### :unlockfps (unlock/lock animations fps with forced mode)
