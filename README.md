@@ -1,11 +1,11 @@
 ## Habbo Air Plus Fut
 <a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut.zip">Download clique aqui</a>
-###### <b>Ultimas Atualizações : Comando :SC e melhora de desempenho</b>
+###### <b>Latest Updates: :SC command and performance improvement</b>
 
 
-##### Esse projeto tem como objetivo dar continuidade no projeto do habboAirplus com funcionalidades unicas de futgogos, o projeto da lilith não era focado para fut e continha alguns temporizadores que estavam afetando o desempenho do xmouse, isso era visto quando utilizavamos a op 6 com menos de 20ms.
-Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temporizadores.
-##### Agora o launcher está atendendo muito mais rapido😎.
+##### This project aims to continue the habboAirplus project with unique features of futgogos, lilith's project was not focused on fut and contained some timers that were affecting xmouse performance, this was seen when we used op 6 with less than 20ms .
+Those who play futgogos can see the difference, in this new version I removed 7 commands that contained timers.
+##### Now the launcher is serving much faster😎😎.
 
 
 ## Comandos presentes no HabboAirPlusFut
@@ -50,7 +50,7 @@ Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temp
 - ~~bgcolor~~
 
 
-## Conf XM para usar com :sc 
+## Conf XM whith :sc 
 ##### {LMB}{LMB}{LMB}{LMB}{REFRESH10000}{Click_10000}{macro}{LMB}{nitrox2} OPÇÃO 6 MILI 12
 ##### {LMB}{MACRO}{MWDN}{TILTR}{DETTS}{LMB}{MACRO}{MWDN}{TILTR}{DETTS} OPÇÃO 6 MILI 12
 ##### {LMB} OPÇÃO 6 MILI 12
@@ -60,13 +60,12 @@ Quem joga futgogos consegue ver a diferença, nessa nova versão e removi 7 temp
 
 
 
-<i>
-This project aims to continue the HabboAirPlus project with unique features of habbo soccer game.
-Thanks to <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> where he developed most of the features.</i>
+
+#####This project aims to continue the HabboAirPlus project with unique features of habbo soccer game.
+#####Thanks to <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> where he developed most of the features.
 <p class="has-line-data" data-line-start="7" data-line-end="9">Client version: MAC63-202305191855-260008915
 JPEXS version: 15.0.0</p>
 
-##### Agradecimentos a <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> onde elaborou a maior parte das funcionalidades.
 ##### My nick game: estoulimpo or riskko
 
 
