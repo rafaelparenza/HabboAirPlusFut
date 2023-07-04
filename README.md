@@ -51,10 +51,10 @@ Those who play futgogos can see the difference, in this new version I removed 7 
 
 
 ## Conf XM whith :sc 
-##### {LMB}{LMB}{LMB}{LMB}{REFRESH10000}{Click_10000}{macro}{LMB}{nitrox2} OPÇÃO 6 MILI 12
 ##### {LMB}{MACRO}{MWDN}{TILTR}{DETTS}{LMB}{MACRO}{MWDN}{TILTR}{DETTS} OPÇÃO 6 MILI 12
-##### {LMB} OPÇÃO 6 MILI 12
-##### {LMB}{MMB}{Click_10000}{WAITMS<30>}{LMB}{MMB}{Click_10000}{WAITMS<30>}{LMB}{MMB} op 9
+##### {LMB}{LMB}{LMB} OPÇÃO 6 MILI 25
+##### {LMB}{Click_10000}{WAITMS<30>}{LMB}{Click_10000}{WAITMS<30>}{LMB} op 9
+##### {LMB}{Click_10000}{WAITMS<30>}{LMB}{Click_10000}{WAITMS<30>}{LMB} op 9
 
 
 
