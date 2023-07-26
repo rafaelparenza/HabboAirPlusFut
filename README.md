@@ -10,7 +10,7 @@ Those who play futgogos can see the difference, in this new version I removed 7 
 
 ## Comandos presentes no HabboAirPlusFut
 
-##### :chute kicks the ball that was selected in :setid
+##### :chute kicks the ball that was selected in :setid, xm conf(right button or Mouse button 4)> ':chute{numenter}'
 ##### :setid {idball} use :showids to see the ball ids on the infostand, then use :setid {ball id}
 ##### :fut unlock/lock soccer mode *(atalho para ativar playing, infostand e sc)*
 ##### :sc unlock/lock double click
