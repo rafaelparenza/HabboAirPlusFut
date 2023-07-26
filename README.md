@@ -1,6 +1,6 @@
 ## Habbo Air Plus Fut
 <a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut.zip">Download clique aqui</a>
-###### <b>Latest Updates: :SC command and performance improvement</b>
+###### <b>Latest Updates: :chute and :setid</b>
 
 
 ##### This project aims to continue the habboAirplus project with unique features of futgogos, lilith's project was not focused on fut and contained some timers that were affecting xmouse performance, this was seen when we used op 6 with less than 20ms .
@@ -10,10 +10,11 @@ Those who play futgogos can see the difference, in this new version I removed 7 
 
 ## Comandos presentes no HabboAirPlusFut
 
-##### :fut unlock/lock soccer mode *(atalho para ativar playing, infostand e sc)*
-##### :sc unlock/lock double click
 ##### :chute kicks the ball that was selected in :setid
 ##### :setid {idball} use :showids to see the ball ids on the infostand, then use :setid {ball id}
+##### :fut unlock/lock soccer mode *(atalho para ativar playing, infostand e sc)*
+##### :sc unlock/lock double click
+
 
 ###### :fps Number (Alterar fps do jogo 60 a 240, tente fps:120)
 ###### :unlockfps (unlock/lock animations fps with forced mode)
