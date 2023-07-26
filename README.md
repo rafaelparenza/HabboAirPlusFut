@@ -10,8 +10,9 @@
 
 ## Comandos presentes no HabboAirPlusFut
 
-##### `:chute` chuta a bola que foi selecionada em :setid, dica com xm conf a op 1 (botão direito ou botão 4 do mouse caso possuir os botões laterais) 
-> :chute{numenter}
+##### `:chute` chuta a bola que foi selecionada em :setid, dica com 
+> xmouse config a op 1 (botão direito ou botão 4 do mouse caso possuir os botões laterais) 
+>> :chute{numenter}
 ##### `:setid {idball}` use :showids para ver os IDs das bolas no infostand, então use :setid {ball id}
 ##### `:fut` unlock/lock modo futebol *(atalho para ativar playing, infostand e sc)*
 ##### `:sc` unlock/lock eventos de double click 
@@ -45,9 +46,9 @@
 
 
 ## Conf XM com :sc 
-> {LMB}{LMB}{LMB} OPÇÃO 6 MILI 25
-> {LMB}{LMB} OPÇÃO 6 MILI 20
-> {LMB}{Click_10000}{WAITMS<30>}{LMB}{Click_10000}{WAITMS<30>}{LMB} op 9
++  `{LMB}{LMB}{LMB} OPÇÃO 6 MILI 25`
++  `{LMB}{LMB} OPÇÃO 6 MILI 20`
++  `{LMB}{Click_10000}{WAITMS<30>}{LMB}{Click_10000}{WAITMS<30>}{LMB} op 9`
 
 
 ## Fim
