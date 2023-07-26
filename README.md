@@ -12,8 +12,10 @@ Those who play futgogos can see the difference, in this new version I removed 7 
 
 ##### :fut unlock/lock soccer mode *(atalho para ativar playing, infostand e sc)*
 ##### :sc unlock/lock double click
+##### :chute kicks the ball that was selected in :setid
+##### :setid {idball} use :showids to see the ball ids on the infostand, then use :setid {ball id}
 
-###### :fps Number (Alterar fps do jogo 60 a 240, tente fps:120)<b
+###### :fps Number (Alterar fps do jogo 60 a 240, tente fps:120)
 ###### :unlockfps (unlock/lock animations fps with forced mode)
 ###### :respect (give respects to clicked user) (USE AT OWN RISK)
 ###### :safetybook (show hotel safety book)
