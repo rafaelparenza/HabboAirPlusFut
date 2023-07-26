@@ -1,6 +1,6 @@
 ## Habbo Air Plus Fut
 <a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut.zip">Download clique aqui</a>
-###### <b>Latest Updates: :chute and :setid</b>
+###### <b>Latest Updates: :chute and :setid, x64 and x86</b>
 
 
 ##### This project aims to continue the habboAirplus project with unique features of futgogos, lilith's project was not focused on fut and contained some timers that were affecting xmouse performance, this was seen when we used op 6 with less than 20ms .
