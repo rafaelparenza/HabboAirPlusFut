@@ -58,7 +58,7 @@
 ##### Thanks to <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> where he developed most of the features.
 <p class="has-line-data" data-line-start="7" data-line-end="9">Client version: MAC63-202305191855-260008915
 JPEXS version: 15.0.0</p>
-
+google-site-verification: google4e4f4642a27f1f92.html
 ##### My nick game: `estoulimpo` or `riskko`
 
 
