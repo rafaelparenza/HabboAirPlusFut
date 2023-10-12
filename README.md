@@ -16,8 +16,6 @@
 ##### `:sc` unlock/lock eventos de double click 
 ##### `:infostand` (alternar a visibilidade do mobi / infostand do usuário e agora remove o balão de quando usuario entra no quarto)
 ##### `:unlockfps` (unlock/lock animações fps com o modo forçado)
-
-###### *Lilith legacy:*
 ###### `:fps` Number (Alterar fps do jogo 60 a 240, tente fps:120)
 ###### `:respect` (give respects to clicked user) (USE AT OWN RISK)
 ###### `:safetybook` (show hotel safety book)
