@@ -1,8 +1,8 @@
 ## Habbo Air Plus Fut
 <a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut.zip">Download Launcher clique aqui</a><br>
 <a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut-32b.zip">Download Launcher 32 bits</a><br>
-<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/XMouseButtonControl.2.20.5.Portable.zip">Download 32 bits</a><br>
-<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/tsearch.1.6b.rar">Download 32 bits</a><br>
+<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/XMouseButtonControl.2.20.5.Portable.zip">Download Xmouse portable</a><br>
+<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/tsearch.1.6b.rar">Download Tsearch</a><br>
 
 
 
