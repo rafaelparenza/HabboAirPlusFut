@@ -1,10 +1,13 @@
 ## Habbo Air Plus Fut
-<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut.zip">Download clique aqui</a><br>
-<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut-32b.zip">Download 32 bits</a><br>
+<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut.zip">Download Launcher clique aqui</a><br>
+<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut-32b.zip">Download Launcher 32 bits</a><br>
+<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/XMouseButtonControl.2.20.5.Portable.zip">Download 32 bits</a><br>
+<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/tsearch.1.6b.rar">Download 32 bits</a><br>
+
 
 
 ## **Ultimas Atualizações**
-+ Atualização do launcher, melhoria do desempenho, conforme solicitado pela comunidade não havera mais o comando :chute
++ Atualização do launcher, melhoria do desempenho e agora será focado para campeonatos, conforme solicitado pela comunidade não havera mais o comando :chute
 
 ## Comandos presentes no HabboFut Champios
 
@@ -46,7 +49,8 @@
 
 
 ## Fim
+##### Duvidas falar comigo no dc `estoulimpo`
 
-##### My nick game: `estoulimpo` or `riskko`
+##### My nick game BR: `estoulimpo` or `riskko`
 
 
