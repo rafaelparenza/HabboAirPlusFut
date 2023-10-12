@@ -4,16 +4,11 @@
 
 
 ## **Ultimas Atualizações**
-+ `:chute` e `:setid`
-+  versões `x64` e` x86`
-+ remoção do balão verde no `infostand` quando amigo entra no quarto
++ Atualização do launcher, melhoria do desempenho, conforme solicitado pela comunidade não havera mais o comando :chute
 
-## Comandos presentes no HabboAirPlusFut
+## Comandos presentes no HabboFut Champios
 
-##### `:chute` chuta a bola que foi selecionada em :setid, dica com 
-> xmouse config a op 1 (botão direito ou botão 4 do mouse caso possuir os botões laterais) 
->> :chute{numenter}
-##### `:setid {idball}` use :showids para ver os IDs das bolas no infostand, então use :setid {ball id}
+
 ##### `:fut` unlock/lock modo futebol *(atalho para ativar playing, infostand e sc)*
 ##### `:sc` unlock/lock eventos de double click 
 ##### `:infostand` (alternar a visibilidade do mobi / infostand do usuário e agora remove o balão de quando usuario entra no quarto)
@@ -28,7 +23,6 @@
 ###### `:calendar` (open calendar) (USE AT OWN RISK)
 ###### `:linkevent [Link]` (open a linkevent) (IN SERVER-SIDE CASES USE AT OWN RISK)
 ###### `:givegem [Amount]` (give gems to clicked user) (USE AT OWN RISK)
-###### `:lightsaber `(toggle lightsaber fx)
 ###### `:resetvars` (reset saved client variables)
 ###### `:chatmute` (mute/unmute room chat with forced mode and without affecting chat history)
 ###### `:chatsize [12-40]` (change chat font size with forced mode)
@@ -53,11 +47,6 @@
 
 ## Fim
 
-
-##### This project aims to continue the HabboAirPlus project with unique features of habbo soccer game.
-##### Thanks to <a href="https://github.com/LilithRainbows/HabboAirPlus">@LilithRainbows</a> where he developed most of the features.
-<p class="has-line-data" data-line-start="7" data-line-end="9">Client version: MAC63-202305191855-260008915
-JPEXS version: 15.0.0</p>
 ##### My nick game: `estoulimpo` or `riskko`
 
 
