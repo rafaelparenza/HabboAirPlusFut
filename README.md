@@ -11,8 +11,8 @@
 
 ## Comandos presentes no HabboFut Champios
 ##### infostand ja esta incluso direto na versão
-##### `:playing` unlock/lock modo futebol *(atalho para ativar playing, infostand e sc)*
-##### `:playingoff` unlock/lock modo futebol *(atalho para ativar playing, infostand e sc)*
+##### `:playing` ativar playing
+##### `:playingoff` desativar playing
 ##### `:fps` unlock/lock eventos de double click 
 
 
