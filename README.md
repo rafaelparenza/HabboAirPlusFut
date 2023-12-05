@@ -1,3 +1,10 @@
+
+## Versão lilith todos comandos + :sc :fut
+Solicitar no Discord `estoulimpo`
+
+
+
+
 ## Habbo Air Plus Fut
 <a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut.zip">Download Launcher clique aqui</a><br>
 <a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/HabboAirPlusFut-32b.zip">Download Launcher 32 bits</a><br>
