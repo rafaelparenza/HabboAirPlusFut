@@ -1,5 +1,7 @@
 
-## Versão lilith todos comandos + :sc :fut
+## Versão lilith todos comandos + :sc :fut :gb 
+Acesse  [Versão premium habbofut!](https://github.com/rafaelparenza/HabboAirPlusFut/wiki/Vers%C3%A3o-premium-HabboAirPlusFut)
+
 Solicitar no Discord `estoulimpo`
 
 
@@ -14,9 +16,9 @@ Solicitar no Discord `estoulimpo`
 
 
 ## **Ultimas Atualizações**
-+ Versão emergencial, infostand ja esta incluso direto na versão ,playing e infostand
++ Versão free, infostand ja esta incluso direto na versão
 
-## Comandos presentes no HabboFut Champios
+## Comandos presentes no HabboFut
 ##### infostand ja esta incluso direto na versão
 ##### `:playing` ativar playing
 ##### `:playingoff` desativar playing
