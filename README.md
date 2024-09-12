@@ -2,7 +2,7 @@
 ## Versão lilith todos comandos + :sc :fut :gb 
 Acesse  [Versão premium habbofut!](https://github.com/rafaelparenza/HabboAirPlusFut/wiki/Vers%C3%A3o-premium-HabboAirPlusFut)
 
-Solicitar no Discord `estoulimpo`
+Solicitar no Discord `riskko95`
 
 
 
