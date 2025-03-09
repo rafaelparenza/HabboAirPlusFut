@@ -9,7 +9,7 @@ Solicitar no Discord `riskko95`
 
 ## HabboAirPlusFut
 
-<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/XMouseButtonControl.2.20.5.Portable.zip">Download Xmouse portable</a><br>
+<a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/habboairplus.funciona.furniture.zip">Download airplus lilith funciona furniture</a><br>
 <a href="https://github.com/rafaelparenza/HabboAirPlusFut/releases/download/habbo/tsearch.1.6b.rar">Download Tsearch</a><br>
 
 
@@ -28,8 +28,7 @@ Solicitar no Discord `riskko95`
 
 
 ## Fim
-##### Duvidas falar comigo no dc `estoulimpo`
+##### Duvidas falar comigo no dc `riskko95`
 
-##### My nick game BR: `estoulimpo` or `riskko`
 
 
